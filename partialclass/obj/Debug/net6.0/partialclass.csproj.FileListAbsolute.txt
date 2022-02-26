@@ -1,0 +1,15 @@
+/Users/uttamkumar/Desktop/WorkRepository/Extention/partialclass/obj/Debug/net6.0/partialclass.csproj.AssemblyReference.cache
+/Users/uttamkumar/Desktop/WorkRepository/Extention/partialclass/obj/Debug/net6.0/partialclass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uttamkumar/Desktop/WorkRepository/Extention/partialclass/obj/Debug/net6.0/partialclass.AssemblyInfoInputs.cache
+/Users/uttamkumar/Desktop/WorkRepository/Extention/partialclass/obj/Debug/net6.0/partialclass.AssemblyInfo.cs
+/Users/uttamkumar/Desktop/WorkRepository/Extention/partialclass/obj/Debug/net6.0/partialclass.csproj.CoreCompileInputs.cache
+/Users/uttamkumar/Desktop/WorkRepository/Extention/partialclass/bin/Debug/net6.0/partialclass
+/Users/uttamkumar/Desktop/WorkRepository/Extention/partialclass/bin/Debug/net6.0/partialclass.deps.json
+/Users/uttamkumar/Desktop/WorkRepository/Extention/partialclass/bin/Debug/net6.0/partialclass.runtimeconfig.json
+/Users/uttamkumar/Desktop/WorkRepository/Extention/partialclass/bin/Debug/net6.0/partialclass.dll
+/Users/uttamkumar/Desktop/WorkRepository/Extention/partialclass/bin/Debug/net6.0/ref/partialclass.dll
+/Users/uttamkumar/Desktop/WorkRepository/Extention/partialclass/bin/Debug/net6.0/partialclass.pdb
+/Users/uttamkumar/Desktop/WorkRepository/Extention/partialclass/obj/Debug/net6.0/partialclass.dll
+/Users/uttamkumar/Desktop/WorkRepository/Extention/partialclass/obj/Debug/net6.0/ref/partialclass.dll
+/Users/uttamkumar/Desktop/WorkRepository/Extention/partialclass/obj/Debug/net6.0/partialclass.pdb
+/Users/uttamkumar/Desktop/WorkRepository/Extention/partialclass/obj/Debug/net6.0/partialclass.genruntimeconfig.cache
